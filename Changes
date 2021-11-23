@@ -1,5 +1,10 @@
 Revision history for App-Checklist-Formatter
 
+v0.0.6 Tue Nov 23 17:46:59 CET 2021
+	- set the same version string on module and distribution
+	- move repository to https://github.com/matwei-perl/App-Checklist-Formatter
+	- clean up repository
+
 0.0.5 Fr 1. Okt 11:50:29 CEST 2010
 	- added missing 'use Carp;'
 	- empty lines in vimoutliner file are now o.k.

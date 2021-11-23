@@ -1,0 +1,14 @@
+App-Checklist-Formatter-
+blib
+_build
+Build$
+.cvsignore
+^\.git
+Makefile$
+Makefile.old
+MANIFEST.SKIP
+MANIFEST.bak
+.mtn-ignore
+^MYMETA\.yml$
+^MYMETA\.json$
+.swp$
