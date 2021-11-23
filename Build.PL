@@ -16,8 +16,7 @@ my $builder = Module::Build->new(
     license             => 'perl',
     meta_merge => {
         resources => {
-            repository => 'https://github.com/matwei/perl-App-Checklist-Formatter',
-#            bugtracker => 'https://rt.cpan.org/Public/Dist/Display.html?Name=App-Checklist-Formatter',
+            repository => 'https://github.com/matwei-perl/App-Checklist-Formatter',
         }
     },
     module_name         => 'App::Checklist::Formatter',
