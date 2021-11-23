@@ -5,7 +5,7 @@ package App::Checklist::Formatter;
 use warnings;
 use strict;
 
-use version; our $VERSION = qv('0.1.0');
+use version; our $VERSION = qv('v0.0.6');
 
 use Class::Std;
 {
