@@ -14,6 +14,11 @@ my $builder = Module::Build->new(
     dist_author         => 'Mathias Weidner <mamawe@cpan.org>',
     dist_version_from   => 'bin/checklist-formatter',
     license             => 'perl',
+    meta_merge => {
+        resources => {
+            repository => 'https://github.com/matwei-perl/App-Checklist-Formatter',
+        }
+    },
     module_name         => 'App::Checklist::Formatter',
     requires => {
 	# Perls prior to 5.6 don't support the three-argument form of open.

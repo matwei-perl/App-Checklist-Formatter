@@ -1,0 +1,11 @@
+App-Checklist-Formatter-*
+_build/
+Build
+Makefile.PL
+MANIFEST.bak
+MANIFEST.SKIP
+MANIFEST.SKIP.bak
+META.json
+MYMETA.json
+MYMETA.yml
+*.swp
