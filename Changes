@@ -1,5 +1,7 @@
 Revision history for App-Checklist-Formatter
 
+	- README: note dependency on Class::Std
+
 v0.0.7 Tue Nov 30 08:17:42 CET 2021
 	- Build.PL: note dependency on Class::Std
 

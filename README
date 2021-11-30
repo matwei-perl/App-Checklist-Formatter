@@ -58,12 +58,13 @@ DEPENDENCIES
 
 This program uses the following modules:
 
+   Class::Std
    Getopt::Long
    Pod::Usage
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2010, Mathias Weidner
+Copyright (C) 2010-2021, Mathias Weidner
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
